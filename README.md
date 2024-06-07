@@ -1,6 +1,6 @@
 <h1>PetLife 🐶</h1>
 
-<h2>📍 <a href="https://www.youtube.com/c/OneBitCode" target="_blank">YouTube - One Bit Code</a></h2>
+<h2>📍 <a href="https://www.youtube.com/c/OneBitCode" target="blank">YouTube - One Bit Code</a></h2>
 Este projeto foi inspirado e desenvolvido com a ajuda dos tutoriais e conteúdos incríveis do Isaac Pontes no canal One Bit Code. Não deixe de conferir o canal dele para mais dicas e projetos!
 
 ### Confira o site completo aqui
